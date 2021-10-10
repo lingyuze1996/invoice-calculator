@@ -1,5 +1,5 @@
 .App {
-  background-color: #282c34;
+  background-color: white;
 }
 
 .App-logo {
@@ -20,21 +20,21 @@
     align-items: center;
     justify-content: center;
     font-size: calc(10px + 2vmin);
-    color: white;
+    color: black;
 }
 
 .App-body {
-    min-height: 75vh;
-    color: white;
+    min-height: 80vh;
+    color: black;
 }
 
 .App-footer {
     display: flex;
     flex-direction: column;
     font-size: calc(5px + 2vmin);
-    background-color: white;
+    background-color: #707070;
     justify-content: center;
-    color: black;
+    color: white;
     padding: 15px;
 }
 
