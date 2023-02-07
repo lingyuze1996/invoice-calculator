@@ -1,0 +1,45 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-invoicecalculator-dev-121355-authRole",
+      "UnauthRoleArn": "arn:aws:iam::204633455247:role/amplify-invoicecalculator-dev-121355-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::204633455247:role/amplify-invoicecalculator-dev-121355-authRole",
+      "Region": "ap-southeast-2",
+      "DeploymentBucketName": "amplify-invoicecalculator-dev-121355-deployment",
+      "UnauthRoleName": "amplify-invoicecalculator-dev-121355-unauthRole",
+      "StackName": "amplify-invoicecalculator-dev-121355",
+      "StackId": "arn:aws:cloudformation:ap-southeast-2:204633455247:stack/amplify-invoicecalculator-dev-121355/b5106d80-a684-11ed-801a-06a9df4d3a20",
+      "AmplifyAppId": "d2oph4xhrt7szc"
+    },
+    "categories": {
+      "function": {
+        "invoicecalculator01198758": {},
+        "ica": {}
+      },
+      "auth": {
+        "invoicecalculatorc0815bd7": {}
+      }
+    }
+  },
+  "test": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-invoicecalculator-test-121655-authRole",
+      "UnauthRoleArn": "arn:aws:iam::204633455247:role/amplify-invoicecalculator-test-121655-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::204633455247:role/amplify-invoicecalculator-test-121655-authRole",
+      "Region": "ap-southeast-2",
+      "DeploymentBucketName": "amplify-invoicecalculator-test-121655-deployment",
+      "UnauthRoleName": "amplify-invoicecalculator-test-121655-unauthRole",
+      "StackName": "amplify-invoicecalculator-test-121655",
+      "StackId": "arn:aws:cloudformation:ap-southeast-2:204633455247:stack/amplify-invoicecalculator-test-121655/1dd25c20-a685-11ed-91d6-0a8394c4a170",
+      "AmplifyAppId": "d2oph4xhrt7szc"
+    },
+    "categories": {
+      "function": {
+        "invoicecalculator01198758": {
+          "deploymentBucketName": "amplify-invoicecalculator-test-121655-deployment",
+          "s3Key": "amplify-builds/invoicecalculator01198758-784870412b3867317864-build.zip"
+        }
+      }
+    }
+  }
+}
